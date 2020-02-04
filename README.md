@@ -2,7 +2,7 @@
 
 
 ## Useful links
-Whilst you're learning how to code in HTML, I strongly recommend the following resources:
+As the lessons continue to develop, I'll do my best to include useful links and resources for you here, so please visit this page after each lesson!
 
 ### Text editors
 
