@@ -84,3 +84,6 @@ It is really important to note that listed content should be 'nested'. Please se
     </ol>
 ```
 From the above example, you can see that the ```<li>``` content sits inside the ```<ul>``` tags. This is considered to be 'nested'. If you look at the 'standard website structure' displayed previously, you will be able to see that the ```<title>``` tag is nested inside the ```<head>``` tag.
+
+```<!-- Comments -->```
+Whenever you're writing code, it's really important that you let people (and yourself) know what you're coding! We do this by using 'comments', which are written in HTML using the following: ```<!--``` to open, and ```-->``` to close. Any text within these tags are considered comments and will not influence the code at all.
