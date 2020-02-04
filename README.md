@@ -33,6 +33,6 @@ GitHub can look really complicated, but it's actually quite simple! Each version
 
 In each lesson 'branch', I will include the example code (which you will be free to download and/or look at), and a 'README.md' file, which will detail everything we've gone through.
 
-For example, in the top left, navigate to 'Branch: lesson-1', and you will be able to find an 'index.html' file containing the example code, as well as the 'README.md' file detailing the lesson topics and areas covered.
+For example, in the top left, navigate to 'Branch: lesson-1', and you will be able to find an 'index.html' file containing the lesson's example code, as well as the 'README.md' file detailing the lesson's topics and areas covered.
 
 If you're struggling to use GitHub, or find what you need, feel free to ask me questions!
