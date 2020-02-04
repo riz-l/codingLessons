@@ -16,7 +16,7 @@ There are loads of different text editors to choose from (even Notepad is ok!), 
   - Atom is a great text editor, and functions very similarly to VSCode. Atom will hold your hand less than VSCode, but will still provide you with a good experience.
 * Notepad ++
   - Download here: https://notepad-plus-plus.org/downloads/
-  - This is more or less Notepad with colours and guidelines.
+  - This is more or less Notepad with colours and guidelines - avoid unless you're feeling brave!
 
 ### Learning resources
 
