@@ -20,7 +20,7 @@ There are loads of different text editors to choose from (even Notepad is ok!), 
 
 ### Learning resources
 
-Whilst you're learing, check out the following links (but try to stay on target with learning HTML. It's very easy to get side-tracked, and it's important to learn the basics first):
+Whilst you're learning, check out the following links (but try to stay on target with learning HTML. It's very easy to get side-tracked, and it's important to learn the basics first):
 
 * W3 Schools
   - Link: https://www.w3schools.com/html/
@@ -35,4 +35,4 @@ In each lesson 'branch', I will include the example code (which you will be free
 
 For example, in the top left, navigate to 'Branch: lesson-1', and you will be able to find an 'index.html' file containing the lesson's example code, as well as the 'README.md' file detailing the lesson's topics and areas covered.
 
-If you're struggling to use GitHub, or find what you need, feel free to ask me questions!
+If you're struggling to use GitHub, or find what you need feel free to ask me questions!
