@@ -27,63 +27,10 @@ Whilst you're learing, check out the following links (but try to stay on target 
 * MDN Web Docs
   - Link: https://developer.mozilla.org/en-US/docs/Web/HTML
 
-## Lesson 1
+## GitHub
 
-### A standard website structure is as follows:
-```
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Document</title>
-</head>
-<body>
-</body>
-</html>
-```
-### 'Big' tags explained:
+GitHub can look really complicated, but it's actually quite simple! Each version is labelled a 'branch', and within this GitHub repository, I will upload each coding lesson we go through.
 
-```<!DOCTYPE html>```
-This statement declares that the document type (```DOCTYPE```) is html (Hyper Text Markup Language).
+In each lesson 'branch', I will include the example code (which you will be free to download and/or look at), and a 'README.md' file, which will detail everything we've gone through.
 
-```<html>```
-This statement declares that everything within these tags is html code.
-
-```<head>```
-This ```<head>``` tag is used to reference further files or call-able references (this will be explored in a further lesson). In the ```<head>``` tag you should expect to see tags such as ```<meta />```, ```<link />``` and ```<script />```.
-
-```<title>```
-This tag declares the website or page name that will be displayed in the tab of the user's internet browser (Chrome, Firefox, Safari, etc.).
-
-```<body>```
-This tag declares the page/website content that will be displayed in the user's internet browser.
-
-### 'Smaller' tags explained:
-
-```<h1>```
-This tag represents a 'Heading 1'. It is important to note that all headings should be used in ascending order with none being missed out. From 'Heading 1' (```<h1>```), to 'Heading 2' (```<h2>```), to 'Heading 3' (```<h3>```), all the way up to 'Heading 6' (```<h6>```). 
-
-```<p>```
-This tag represents a 'paragraph'. Though it is labelled as 'paragraph', this can contain as little or as much text as you'd like.
-
-```<li>```
-This tag represents a 'list', and can be either 'unordered' (```<ul>```), or ordered (```<ol>```).
-
-It is really important to note that listed content should be 'nested'. Please see the below as examples:
-
-```
-    <ul>
-      <li>Cats</li>
-      <li>Dogs</li>
-      <li>Hamsters</li>
-    </ul>
-    
-    <ol>
-      <li>Cats</li>
-      <li>Dogs</li>
-      <li>Hamsters</li>
-    </ol>
-```
-From the above example, you can see that the ```<li>``` content sits inside the ```<ul>``` tags. This is considered to be 'nested'. If you look at the 'standard website structure' displayed previously, you will be able to see that the ```<title>``` tag is nested inside the ```<head>``` tag.
-
-```<!-- Comments -->```
-Whenever you're writing code, it's really important that you let people (and yourself) know what you're coding! We do this by using 'comments', which are written in HTML using the following: ```<!--``` to open, and ```-->``` to close. Any text within these tags are considered comments and will not influence the code at all.
+If you're struggling to use GitHub, or find what you need, feel free to ask me questions!
